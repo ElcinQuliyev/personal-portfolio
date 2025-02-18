@@ -32,6 +32,7 @@ nav{
     font-weight: bolder;
 }
 .logo span{
+    margin-top: 20px;
     color: rgb(109,67, 0);
     text-shadow: 0 0 10px rgb(109,67, 0);
 }
@@ -212,8 +213,8 @@ section{
 }
 .content button{
     width: 40%;
-    height: 6vh;
-    margin: 30px;
+    height: 7vh;
+    margin: 25px;
     background-color: rgb(109,67, 0);
     color: white;
     border: none;
