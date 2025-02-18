@@ -78,7 +78,7 @@ nav{
     transition: 0.2s linear;
 }
 .nav-container .contact-btn a{
-    color: white;
+    color: black;
     transition: 0.3s linear;
 }
 .nav-container .contact-btn:hover, .nav-container .contact-btn:hover a{
@@ -129,6 +129,7 @@ section{
 }
 
 .main-container .image img{
+
     border-radius: 5%;
     width: 300px;
     height: 500px;
@@ -182,7 +183,7 @@ section{
         content: "Designer";
     }
     67%, 100%{
-        content: "Youtuber";
+        content: "CodeCrafter";
     }
 }
 .content p{
